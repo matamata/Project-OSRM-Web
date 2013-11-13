@@ -58,7 +58,7 @@ OSRM.Localization["my"] = {
 "OPEN_JOSM": "Editor",
 "OPEN_OSMBUGS": "Nota",
 "OPEN_JOSM_FAILED": "Zoom dekat untuk membuka editor OSM.",
-"OPEN_OSMBUGS_FAILED": "Zoom dwkat untuk tuli nota.",
+"OPEN_OSMBUGS_FAILED": "Zoom dekat untuk tuli nota.",
 // geocoder
 "SEARCH_RESULTS": "Hasil Carian",
 "FOUND_X_RESULTS": "keputusan %i ditemui",
@@ -81,7 +81,7 @@ OSRM.Localization["my"] = {
 "OVERVIEW_MAP": "Gambaran Peta",
 "NO_ROUTE_SELECTED": "Tiada Laluan Di Pilih,
 // routing engines
-"ENGINE_0": "Car (fastest)",
+"ENGINE_0": "Kenderaan (Kelajuan)",
 // tile server names
 // (only required if names are different to OSRM.config)
 //"TILE_SERVER_0": "osm.org",
